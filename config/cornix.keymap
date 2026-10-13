@@ -18,7 +18,7 @@
             #binding-cells = <0>;
             bindings =
                 <&kp LA(SPACE)>,
-                <&macro_wait_time 250>,
+                <&macro_wait_time 400>,
                 <&kp L &kp O &kp C &kp K>,
                 <&macro_tap_time 250>,
                 <&kp ENTER>;
@@ -31,7 +31,7 @@
             #binding-cells = <0>;
             bindings =
                 <&kp LA(SPACE)>,
-                <&macro_wait_time 250>,
+                <&macro_wait_time 400>,
                 <&kp S &kp L &kp E &kp E &kp P>,
                 <&macro_tap_time 250>,
                 <&kp ENTER>;
